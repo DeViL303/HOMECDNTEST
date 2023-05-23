@@ -8,14 +8,14 @@
     <TEXT LANG="it-IT">Il mio Home</TEXT>
     <TEXT LANG="es-ES">Mi Home</TEXT>
     <TEXT>My Home</TEXT>
-    <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/1_MyHome.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/1_MyHome.dds</IMAGE>
     <ITEM>
       <TEXT LANG="fr-FR">Amis en ligne</TEXT>
       <TEXT LANG="de-DE">Freunde online</TEXT>
       <TEXT LANG="it-IT">Amici online</TEXT>
       <TEXT LANG="es-ES">Amigos online</TEXT>
       <TEXT>Friends Online</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/2__MyFriends.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/2__MyFriends.jpg</IMAGE>
       <FUNCTION>FriendsList</FUNCTION>
     </ITEM>
     <ITEM>
@@ -24,10 +24,10 @@
       <TEXT LANG="it-IT">Preferiti</TEXT>
       <TEXT LANG="es-ES">Favoritos</TEXT>
       <TEXT>Favourites</TEXT>
-      <IMAGE LANG="de-DE">http://scee-home.playstation.net/01.86/nav/favourites_gradient.dds</IMAGE>
-      <IMAGE LANG="it-IT">http://scee-home.playstation.net/01.86/nav/favourites_gradient.dds</IMAGE>
-      <IMAGE LANG="es-ES">http://scee-home.playstation.net/01.86/nav/favourites_gradient.dds</IMAGE>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/3_MyFavourites.jpg</IMAGE>
+      <IMAGE LANG="de-DE">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/favourites_gradient.dds</IMAGE>
+      <IMAGE LANG="it-IT">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/favourites_gradient.dds</IMAGE>
+      <IMAGE LANG="es-ES">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/favourites_gradient.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/3_MyFavourites.jpg</IMAGE>
       <FUNCTION>Favourites</FUNCTION>
     </ITEM>
     <ITEM>
@@ -36,7 +36,7 @@
       <TEXT LANG="it-IT">I miei appartamenti</TEXT>
       <TEXT LANG="es-ES">Mis apartamentos</TEXT>
       <TEXT>My Apartments</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/4_MyApartments.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/4_MyApartments.jpg</IMAGE>
       <FUNCTION>YourApartments</FUNCTION>
     </ITEM>
     <ITEM>
@@ -45,7 +45,7 @@
       <TEXT LANG="it-IT">I miei club</TEXT>
       <TEXT LANG="es-ES">Mis clubs</TEXT>
       <TEXT>My Clubs</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/5_MyClubs.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/5_MyClubs.jpg</IMAGE>
       <FUNCTION>YourClubhouses</FUNCTION>
     </ITEM>
   </CATEGORY>
@@ -55,14 +55,14 @@
     <TEXT LANG="it-IT">Nuovi e consigliati</TEXT>
     <TEXT LANG="es-ES">Nuevo y recomendado</TEXT>
     <TEXT>New and Recommended</TEXT>
-    <IMAGE>http://scee-home.playstation.net/01.86/nav/featuredspaces_gradient.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/featuredspaces_gradient.dds</IMAGE>
     <ITEM>
       <TEXT LANG="fr-FR">Espaces PlayStation®Home</TEXT>
       <TEXT LANG="de-DE">Hervorgehobene Bereiche</TEXT>
       <TEXT LANG="it-IT">Spazio in evidenza</TEXT>
       <TEXT LANG="es-ES">Espacios destacados</TEXT>
       <TEXT>PlayStation®Home Spaces</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/corespaces_gradient.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/corespaces_gradient.dds</IMAGE>
       <ITEM>
         <DESTINATION>Home Square</DESTINATION>
       </ITEM>
@@ -73,14 +73,14 @@
         <DESTINATION>SCEE_Sports_Dest_4B15_D157</DESTINATION>
       </ITEM>
       <ITEM>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
         <DESTINATION>SCEE_Action_Dest_D62F_81CF</DESTINATION>
       </ITEM>
       <ITEM>
         <DESTINATION>SCEE_Dest_Casual_C3B1_7215</DESTINATION>
       </ITEM>
       <ITEM>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Uncharted_Fortune-Hunter_Logo_ENG.PNG</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Uncharted_Fortune-Hunter_Logo_ENG.PNG</IMAGE>
         <DESTINATION>Uncharted_3_24E4_875D</DESTINATION>
       </ITEM>
       <ITEM>
@@ -95,7 +95,7 @@
         <TEXT LANG="it-IT">Centro commerciale - Est</TEXT>
         <TEXT LANG="es-ES">Centro comercial: Este</TEXT>
         <TEXT>Shopping Mall East</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/shoppingcentre001.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/shoppingcentre001.png</IMAGE>
         <DESTINATION>Marketplace</DESTINATION>
       </ITEM>
       <ITEM>
@@ -104,7 +104,7 @@
         <TEXT LANG="it-IT">Centro commerciale - Ovest</TEXT>
         <TEXT LANG="es-ES">Centro comercial: Oeste</TEXT>
         <TEXT>Shopping Mall West</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/ShoppingCentre2_Nav06.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/ShoppingCentre2_Nav06.png</IMAGE>
         <DESTINATION>VMShoppingCentre_F1EB_5D0C</DESTINATION>
       </ITEM>
     </ITEM>
@@ -114,7 +114,7 @@
       <TEXT LANG="it-IT">Sala PlayStation®Vita</TEXT>
       <TEXT LANG="es-ES">Salón PlayStation®Vita</TEXT>
       <TEXT>PlayStation®Vita Lounge</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSVita_NAV.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSVita_NAV.png</IMAGE>
       <ITEM>
         <DESTINATION>PS_Vita_Lobby_445B_2185</DESTINATION>
       </ITEM>
@@ -125,7 +125,7 @@
       <TEXT LANG="it-IT">Il grandioso periodo Edo del Giappone</TEXT>
       <TEXT LANG="es-ES">La gran era Edo de Japón</TEXT>
       <TEXT>Great Edo of Nippon</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
       <ITEM>
         <DESTINATION>Edo_Lounge_EU_7026_1D</DESTINATION>
       </ITEM>
@@ -136,12 +136,12 @@
       <TEXT LANG="it-IT">Evento vacanze invernali 2011</TEXT>
       <TEXT LANG="es-ES">Evento de fiestas de invierno 2011</TEXT>
       <TEXT>Winter Holiday Event 2011</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/scee_winter.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/scee_winter.png</IMAGE>
       <DESTINATION>SCEA_Winter_2011_20AA_DED7</DESTINATION>
     </ITEM>
     <ITEM>
       <TEXT>Novus Prime</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
       <DESCRIPTION>
         <BODY>Earn tons of new rewards as you fight to save the Earth from an onslaught of intergalactic enemies! Report to the Novus Prime space station and team up with other players to face the enemy armada in live-action multiplayer space combat! Upgrade your ship, level up to new ranks, and Spacewalk in Zero-G to blast the parasitic Crawlers that threaten the space station.</BODY>
       </DESCRIPTION>
@@ -151,7 +151,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Red Bull</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
       <ITEM>
         <DESTINATION>RedbullHub_illume_8B26_E7D1</DESTINATION>
       </ITEM>
@@ -161,21 +161,21 @@
     </ITEM>
     <ITEM>
       <TEXT>Sodium 2</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Sodium2ParentTile_324x152.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Sodium2ParentTile_324x152.png</IMAGE>
       <ITEM>
         <DESTINATION>Sodium2_RTM_1476_98E4</DESTINATION>
       </ITEM>
     </ITEM>
     <ITEM>
       <TEXT>GAME</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/GAME.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/GAME.dds</IMAGE>
       <ITEM>
         <DESTINATION>GAME_Moonbase_244E_AA34</DESTINATION>
       </ITEM>
     </ITEM>
     <ITEM>
       <TEXT>Aurora 1.4</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
       <ITEM>
         <DESTINATION>Aurora_Non_SCEJ_568D_1E32</DESTINATION>
       </ITEM>
@@ -187,31 +187,31 @@
     <TEXT LANG="it-IT">Per genere</TEXT>
     <TEXT LANG="es-ES">Por género</TEXT>
     <TEXT>By Genre</TEXT>
-    <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/1_ByGenre.jpg</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/1_ByGenre.jpg</IMAGE>
     <ITEM>
       <TEXT>Action</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
       <ITEM>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Action_Thumbnail_320x176.png</IMAGE>
         <DESTINATION>SCEE_Action_Dest_D62F_81CF</DESTINATION>
       </ITEM>
       <ITEM>
         <TEXT>Assassin's Creed</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
         <ITEM>
           <DESTINATION>AC2_Lab_C277_EA79</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Bootleggers</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Bootleggers_large_scee.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Bootleggers_large_scee.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Bootleggers_8D03_9B2D</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Dead Nation</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/DN_Nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/DN_Nav.png</IMAGE>
         <ITEM>
           <DESTINATION>Dead_Nation_2_DD26_B0EE</DESTINATION>
         </ITEM>
@@ -221,7 +221,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Far Cry 2</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/SubHeader_FarCry2.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/SubHeader_FarCry2.dds</IMAGE>
         <ITEM>
           <DESTINATION>FC2_Trainstation</DESTINATION>
         </ITEM>
@@ -231,7 +231,7 @@
       </ITEM>
       <ITEM>
         <TEXT>inFamous</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/inFamous.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/inFamous.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_inFAMOUS_Space_FC21_ABF7</DESTINATION>
         </ITEM>
@@ -241,25 +241,25 @@
       </ITEM>
       <ITEM>
         <TEXT>Resident Evil 5</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RE5.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RE5.png</IMAGE>
         <ITEM>
           <DESTINATION>E_CAPCOM_J_RE5_6B9D_6A46</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Resistance™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Resistance.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Resistance.dds</IMAGE>
         <ITEM>
           <DESTINATION>Resistance2_Lobby_77F0_7D02</DESTINATION>
         </ITEM>
         <ITEM>
-          <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/R3_Home-navigator.jpg</IMAGE>
+          <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/R3_Home-navigator.jpg</IMAGE>
           <DESTINATION>Resistance_3_Diner_25A3_C075</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Novus Prime</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
         <DESCRIPTION>
           <BODY>Earn tons of new rewards as you fight to save the Earth from an onslaught of intergalactic enemies! Report to the Novus Prime space station and team up with other players to face the enemy armada in live-action multiplayer space combat! Upgrade your ship, level up to new ranks, and Spacewalk in Zero-G to blast the parasitic Crawlers that threaten the space station.</BODY>
         </DESCRIPTION>
@@ -269,25 +269,25 @@
       </ITEM>
       <ITEM>
         <TEXT>PSN Sphere</TEXT>
-        <IMAGE LANG="fr-FR">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
-        <IMAGE LANG="de-DE">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
-        <IMAGE LANG="it-IT">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
-        <IMAGE LANG="es-ES">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
+        <IMAGE LANG="fr-FR">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
+        <IMAGE LANG="de-DE">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
+        <IMAGE LANG="it-IT">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
+        <IMAGE LANG="es-ES">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
         <ITEM>
           <DESTINATION>PSN_Dead_Nation_D598_E497</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>SIREN BLOOD CURSE™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/SIREN_BC.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/SIREN_BC.dds</IMAGE>
         <ITEM>
           <DESTINATION>SIREN_Entrance_Space_B6A4_65E4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>SOCOM™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Socom.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Socom.dds</IMAGE>
         <ITEM>
           <DESTINATION>SOCOM_TOC_EU_85DD_ECBC</DESTINATION>
         </ITEM>
@@ -297,10 +297,10 @@
       </ITEM>
       <ITEM>
         <TEXT>Sodium</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
         <ITEM>
           <TEXT>Sodium</TEXT>
-          <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
+          <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
           <DESTINATION>Sodium_Demo_6C9B_2C7B</DESTINATION>
         </ITEM>
         <ITEM>
@@ -313,7 +313,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Uncharted™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Uncharted.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Uncharted.dds</IMAGE>
         <ITEM>
           <DESTINATION>Uncharted_TheBar</DESTINATION>
         </ITEM>
@@ -323,7 +323,7 @@
       </ITEM>
       <ITEM>
         <TEXT>inFamous</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/inFamous.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/inFamous.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_inFAMOUS_Space_FC21_ABF7</DESTINATION>
         </ITEM>
@@ -331,21 +331,21 @@
     </ITEM>
     <ITEM>
       <TEXT>Adventure</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/3_AdventureUncharted.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/3_AdventureUncharted.jpg</IMAGE>
       <ITEM>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Uncharted_Fortune-Hunter_Logo_ENG.PNG</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Uncharted_Fortune-Hunter_Logo_ENG.PNG</IMAGE>
         <DESTINATION>Uncharted_3_24E4_875D</DESTINATION>
       </ITEM>
       <ITEM>
         <TEXT>Assassin's Creed</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
         <ITEM>
           <DESTINATION>AC2_Lab_C277_EA79</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Aurora 1.4</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
         <ITEM>
           <DESTINATION>Aurora_Non_SCEJ_568D_1E32</DESTINATION>
         </ITEM>
@@ -356,14 +356,14 @@
         <TEXT LANG="it-IT">Il grandioso periodo Edo del Giappone</TEXT>
         <TEXT LANG="es-ES">La gran era Edo de Japón</TEXT>
         <TEXT>Great Edo of Nippon</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
         <ITEM>
           <DESTINATION>Edo_Lounge_EU_7026_1D</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Uncharted™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Uncharted.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Uncharted.dds</IMAGE>
         <ITEM>
           <DESTINATION>Uncharted_TheBar</DESTINATION>
         </ITEM>
@@ -373,7 +373,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Ratchet &amp; Clank™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Ratchet.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Ratchet.dds</IMAGE>
         <ITEM>
           <DESTINATION>NSIRCHOME_Hub_2BC9_87FD</DESTINATION>
         </ITEM>
@@ -381,10 +381,10 @@
     </ITEM>
     <ITEM>
       <TEXT>Casual</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/4_IndiePark.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/4_IndiePark.jpg</IMAGE>
       <ITEM>
         <TEXT>Pier Park</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/pierpark_scee.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/pierpark_scee.png</IMAGE>
         <DESTINATION>SCEE_PierPark_Dest_FB6D_390A</DESTINATION>
       </ITEM>
       <ITEM>
@@ -392,21 +392,21 @@
       </ITEM>
       <ITEM>
         <TEXT>Aurora 1.4</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
         <ITEM>
           <DESTINATION>Aurora_Non_SCEJ_568D_1E32</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Double Six</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/BZB_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/BZB_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>DoubleSix_Lobby_D790_6CE</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Buzz!™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Buzz.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Buzz.dds</IMAGE>
         <ITEM>
           <DESTINATION>Buzz_Lobby_1655_6402</DESTINATION>
         </ITEM>
@@ -417,21 +417,21 @@
       </ITEM>
       <ITEM>
         <TEXT>GAME</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/GAME.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/GAME.dds</IMAGE>
         <ITEM>
           <DESTINATION>GAME_Moonbase_244E_AA34</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Granzella</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_Gran_Lagoon_99F8_FC64</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Hudson</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/HUDSON_logo.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/HUDSON_logo.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_HUDSON_Hudson_97B7_545F</DESTINATION>
         </ITEM>
@@ -447,49 +447,49 @@
       </ITEM>
       <ITEM>
         <TEXT>LittleBigPlanet™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/lbph.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/lbph.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_LBP_Hub_4C7A_664F</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Lockwood</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/lockwood.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/lockwood.png</IMAGE>
         <ITEM>
           <DESTINATION>Lockwood_Showcase_6663_C388</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>LocoRoco™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/LocoRoco.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/LocoRoco.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEJ_LocoRoco_Pub03_6A94_35E8</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>The Midway</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/large.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/large.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_MMI_Midway_D11D_5547</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>The Midway 2</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/TheMidway2_NavTicket.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/TheMidway2_NavTicket.png</IMAGE>
         <ITEM>
           <DESTINATION>Midway2_68D9_45B4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>ModNation™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
         <ITEM>
           <DESTINATION>ModNationSpace_F46D_47C</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>PixelJunk™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/pixeljunk.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/pixeljunk.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEJ_QGames_Exhibit_19A7_2689</DESTINATION>
         </ITEM>
@@ -500,14 +500,14 @@
         <TEXT LANG="it-IT">Il Playground</TEXT>
         <TEXT LANG="es-ES">Playground</TEXT>
         <TEXT>The Playground</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Playground_T032.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Playground_T032.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Playground_CC0D_AEA4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Red Bull</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>RedbullHub_illume_8B26_E7D1</DESTINATION>
         </ITEM>
@@ -520,14 +520,14 @@
       </ITEM>
       <ITEM>
         <TEXT>SingStar®</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Singstar_Main_image_navigator.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Singstar_Main_image_navigator.jpg</IMAGE>
         <ITEM>
           <DESTINATION>SingStar_Main</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Star Wars™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/StarWars_Logo.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/StarWars_Logo.png</IMAGE>
         <ITEM>
           <DESTINATION>Virtuos_Cantina_C7B_4487</DESTINATION>
           <DESCRIPTION>
@@ -541,7 +541,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Xi Museum</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/thumb320x176.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/thumb320x176.png</IMAGE>
         <ITEM>
           <DESTINATION>Xi_PostHub_final</DESTINATION>
         </ITEM>
@@ -549,13 +549,13 @@
     </ITEM>
     <ITEM>
       <TEXT>Sports</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/5_SportsDistrict.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/5_SportsDistrict.jpg</IMAGE>
       <ITEM>
         <DESTINATION>SCEE_Sports_Dest_4B15_D157</DESTINATION>
       </ITEM>
       <ITEM>
         <TEXT>Audi</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Audi_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Audi_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>AudiHub_231D_83AC</DESTINATION>
         </ITEM>
@@ -571,42 +571,42 @@
       </ITEM>
       <ITEM>
         <TEXT>Bandai-Namco</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/NBGE_logo.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/NBGE_logo.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_Tekken6_A74C_61E9</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>CAPCOM</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/SubHeader_Capcom.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/SubHeader_Capcom.dds</IMAGE>
         <ITEM>
           <DESTINATION>E_CAPCOM_SF4_8C4B_C0B</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Dragon's Green</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/DG_NavTile_02.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/DG_NavTile_02.jpg</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Outso_Arcade_3C7E_FB2B</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Everybody's Golf™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/EBG.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/EBG.dds</IMAGE>
         <ITEM>
           <DESTINATION>mingol_1_e_73F5_6807</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>ModNation™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
         <ITEM>
           <DESTINATION>ModNationSpace_F46D_47C</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>MotorStorm®</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Motorstorm.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Motorstorm.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_MS_Carrier_B6D5_23B8</DESTINATION>
         </ITEM>
@@ -617,7 +617,7 @@
         <TEXT LANG="it-IT">Il Playground</TEXT>
         <TEXT LANG="es-ES">Playground</TEXT>
         <TEXT>The Playground</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Playground_T032.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Playground_T032.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Playground_CC0D_AEA4</DESTINATION>
         </ITEM>
@@ -629,18 +629,18 @@
       </ITEM>
       <ITEM>
         <TEXT>PSN Sphere</TEXT>
-        <IMAGE LANG="fr-FR">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
-        <IMAGE LANG="de-DE">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
-        <IMAGE LANG="it-IT">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
-        <IMAGE LANG="es-ES">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
+        <IMAGE LANG="fr-FR">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
+        <IMAGE LANG="de-DE">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
+        <IMAGE LANG="it-IT">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
+        <IMAGE LANG="es-ES">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
         <ITEM>
           <DESTINATION>PSN_Dead_Nation_D598_E497</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Red Bull</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>RedbullHub_illume_8B26_E7D1</DESTINATION>
         </ITEM>
@@ -653,10 +653,10 @@
       </ITEM>
       <ITEM>
         <TEXT>Sodium</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
         <ITEM>
           <TEXT>Sodium</TEXT>
-          <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
+          <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
           <DESTINATION>Sodium_Demo_6C9B_2C7B</DESTINATION>
         </ITEM>
         <ITEM>
@@ -669,7 +669,7 @@
       </ITEM>
       <ITEM>
         <TEXT>UFC</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/UFC_nav_324x152.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/UFC_nav_324x152.png</IMAGE>
         <ITEM>
           <TEXT>UFC</TEXT>
           <DESTINATION>UFC_Octagon_BAC8_4C1A</DESTINATION>
@@ -687,7 +687,7 @@
         <TEXT LANG="it-IT">Museo WipEout®</TEXT>
         <TEXT LANG="es-ES">Museo WipEout®</TEXT>
         <TEXT>WipEout® Museum</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/WipEout_324x152.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/WipEout_324x152.png</IMAGE>
         <ITEM>
           <DESTINATION>Wipeout_Space_CC7E_1A5</DESTINATION>
           <DESCRIPTION>
@@ -707,24 +707,24 @@
     <TEXT LANG="it-IT">Esplora</TEXT>
     <TEXT LANG="es-ES">Explorar</TEXT>
     <TEXT>Explore</TEXT>
-    <IMAGE>http://scee-home.playstation.net/01.86/nav/explore_gradient.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/explore_gradient.dds</IMAGE>
     <ITEM>
       <TEXT LANG="fr-FR">Par jeu de A à Z</TEXT>
       <TEXT LANG="de-DE">A-Z nach Spiel</TEXT>
       <TEXT LANG="it-IT">Giochi dalla A alla Z</TEXT>
       <TEXT LANG="es-ES">Por juego de la A a la Z</TEXT>
       <TEXT>A-Z By Game</TEXT>
-      <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/AtoZ_Tile.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/AtoZ_Tile.jpg</IMAGE>
       <ITEM>
         <TEXT>Assassin's Creed</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/AssassinsCreed.dds</IMAGE>
         <ITEM>
           <DESTINATION>AC2_Lab_C277_EA79</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Audi</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Audi_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Audi_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>AudiHub_231D_83AC</DESTINATION>
         </ITEM>
@@ -740,49 +740,49 @@
       </ITEM>
       <ITEM>
         <TEXT>Aurora 1.4</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Aurora1_4nav.png</IMAGE>
         <ITEM>
           <DESTINATION>Aurora_Non_SCEJ_568D_1E32</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Double Six</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/BZB_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/BZB_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>DoubleSix_Lobby_D790_6CE</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Buzz!™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Buzz.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Buzz.dds</IMAGE>
         <ITEM>
           <DESTINATION>Buzz_Lobby_1655_6402</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Dead Nation</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/DN_Nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/DN_Nav.png</IMAGE>
         <ITEM>
           <DESTINATION>Dead_Nation_2_DD26_B0EE</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Dragon's Green</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/DG_NavTile_02.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/DG_NavTile_02.jpg</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Outso_Arcade_3C7E_FB2B</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Everybody's Golf™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/EBG.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/EBG.dds</IMAGE>
         <ITEM>
           <DESTINATION>mingol_1_e_73F5_6807</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Far Cry 2</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/SubHeader_FarCry2.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/SubHeader_FarCry2.dds</IMAGE>
         <ITEM>
           <DESTINATION>FC2_Trainstation</DESTINATION>
         </ITEM>
@@ -792,14 +792,14 @@
       </ITEM>
       <ITEM>
         <TEXT>GAME</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/GAME.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/GAME.dds</IMAGE>
         <ITEM>
           <DESTINATION>GAME_Moonbase_244E_AA34</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Granzella</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Granzella_Nav_SCEE.png</IMAGE>
         <ITEM>
           <DESTINATION>Edo_Lounge_EU_7026_1D</DESTINATION>
         </ITEM>
@@ -809,7 +809,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Hudson</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/HUDSON_logo.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/HUDSON_logo.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_HUDSON_Hudson_97B7_545F</DESTINATION>
         </ITEM>
@@ -825,35 +825,35 @@
       </ITEM>
       <ITEM>
         <TEXT>inFamous</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/inFamous.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/inFamous.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_inFAMOUS_Space_FC21_ABF7</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>LittleBigPlanet™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/lbph.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/lbph.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_LBP_Hub_4C7A_664F</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Lockwood</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/lockwood.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/lockwood.png</IMAGE>
         <ITEM>
           <DESTINATION>Lockwood_Showcase_6663_C388</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>LocoRoco™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/LocoRoco.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/LocoRoco.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEJ_LocoRoco_Pub03_6A94_35E8</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Magic: The Gathering</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/magic_nav.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/magic_nav.png</IMAGE>
         <ITEM>
           <DESTINATION>MagicMainHall_65CF_845C</DESTINATION>
         </ITEM>
@@ -863,28 +863,28 @@
       </ITEM>
       <ITEM>
         <TEXT>The Midway</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/large.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/large.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_MMI_Midway_D11D_5547</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>The Midway 2</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/TheMidway2_NavTicket.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/TheMidway2_NavTicket.png</IMAGE>
         <ITEM>
           <DESTINATION>Midway2_68D9_45B4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>minis</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/minis_PS_home_banner.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/minis_PS_home_banner.jpg</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_HOH_minis_top2_3790_8AF2</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>ModNation™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/modnation_home_promo_324x152_01.png</IMAGE>
         <ITEM>
           <TEXT>Event</TEXT>
           <DESTINATION>ModN_Event_Backstage_2EE9_AFB3</DESTINATION>
@@ -895,14 +895,14 @@
       </ITEM>
       <ITEM>
         <TEXT>MotorStorm®</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Motorstorm.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Motorstorm.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_MS_Carrier_B6D5_23B8</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Novus Prime</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Novus_prime.jpg</IMAGE>
         <DESCRIPTION>
           <BODY>Earn tons of new rewards as you fight to save the Earth from an onslaught of intergalactic enemies! Report to the Novus Prime space station and team up with other players to face the enemy armada in live-action multiplayer space combat! Upgrade your ship, level up to new ranks, and Spacewalk in Zero-G to blast the parasitic Crawlers that threaten the space station.</BODY>
         </DESCRIPTION>
@@ -912,7 +912,7 @@
       </ITEM>
       <ITEM>
         <TEXT>PixelJunk™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/pixeljunk.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/pixeljunk.dds</IMAGE>
         <ITEM>
           <DESTINATION>SCEJ_QGames_Exhibit_19A7_2689</DESTINATION>
         </ITEM>
@@ -923,25 +923,25 @@
         <TEXT LANG="it-IT">Il Playground</TEXT>
         <TEXT LANG="es-ES">Playground</TEXT>
         <TEXT>The Playground</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Playground_T032.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Playground_T032.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEA_Playground_CC0D_AEA4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Playstation®Move</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/home-navigation-bar.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/home-navigation-bar.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_PSMove_Backstag_2CDD_304D</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>PSN Sphere</TEXT>
-        <IMAGE LANG="fr-FR">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
-        <IMAGE LANG="de-DE">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
-        <IMAGE LANG="it-IT">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
-        <IMAGE LANG="es-ES">http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
+        <IMAGE LANG="fr-FR">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_FRE.png</IMAGE>
+        <IMAGE LANG="de-DE">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_GER.png</IMAGE>
+        <IMAGE LANG="it-IT">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ITA.png</IMAGE>
+        <IMAGE LANG="es-ES">http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_SPA.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSN-Navigator-Image_324x152_ENG.png</IMAGE>
         <ITEM>
           <DESTINATION>PSN_Dead_Nation_D598_E497</DESTINATION>
         </ITEM>
@@ -952,7 +952,7 @@
         <TEXT LANG="it-IT">Club privato membri PlayStation®Plus</TEXT>
         <TEXT LANG="es-ES">Club privado de miembros de PlayStation®Plus</TEXT>
         <TEXT>The PlayStation®Plus Private Members Club</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSPLUSVIPCLUB_HomeNavigator.PNG</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSPLUSVIPCLUB_HomeNavigator.PNG</IMAGE>
         <ITEM>
           <DESTINATION>PlayStation_Plus_5ABC_6EAA</DESTINATION>
         </ITEM>
@@ -963,21 +963,21 @@
         <TEXT LANG="it-IT">Sala PlayStation®Vita</TEXT>
         <TEXT LANG="es-ES">Salón PlayStation®Vita</TEXT>
         <TEXT>PlayStation®Vita Lounge</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/PSVita_NAV.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSVita_NAV.png</IMAGE>
         <ITEM>
           <DESTINATION>PS_Vita_Lobby_445B_2185</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Ratchet &amp; Clank™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Ratchet.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Ratchet.dds</IMAGE>
         <ITEM>
           <DESTINATION>NSIRCHOME_Hub_2BC9_87FD</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Red Bull</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RedBull_Icon.dds</IMAGE>
         <ITEM>
           <DESTINATION>RedbullHub_illume_8B26_E7D1</DESTINATION>
         </ITEM>
@@ -990,39 +990,39 @@
       </ITEM>
       <ITEM>
         <TEXT>Resident Evil 5</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/RE5.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/RE5.png</IMAGE>
         <ITEM>
           <DESTINATION>E_CAPCOM_J_RE5_6B9D_6A46</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>Resistance™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Resistance.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Resistance.dds</IMAGE>
         <ITEM>
           <DESTINATION>Resistance2_Lobby_77F0_7D02</DESTINATION>
         </ITEM>
         <ITEM>
-          <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/R3_Home-navigator.jpg</IMAGE>
+          <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/R3_Home-navigator.jpg</IMAGE>
           <DESTINATION>Resistance_3_Diner_25A3_C075</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>SingStar®</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Singstar_Main_image_navigator.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Singstar_Main_image_navigator.jpg</IMAGE>
         <ITEM>
           <DESTINATION>SingStar_Main</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>SIREN BLOOD CURSE™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/SIREN_BC.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/SIREN_BC.dds</IMAGE>
         <ITEM>
           <DESTINATION>SIREN_Entrance_Space_B6A4_65E4</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>SOCOM™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Socom.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Socom.dds</IMAGE>
         <ITEM>
           <DESTINATION>SOCOM_TOC_EU_85DD_ECBC</DESTINATION>
         </ITEM>
@@ -1032,10 +1032,10 @@
       </ITEM>
       <ITEM>
         <TEXT>Sodium</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/sodium_group_logo.dds</IMAGE>
         <ITEM>
           <TEXT>Sodium</TEXT>
-          <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
+          <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Sodium_Vickie.dds</IMAGE>
           <DESTINATION>Sodium_Demo_6C9B_2C7B</DESTINATION>
         </ITEM>
         <ITEM>
@@ -1048,7 +1048,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Star Wars™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/StarWars_Logo.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/StarWars_Logo.png</IMAGE>
         <ITEM>
           <DESTINATION>Virtuos_Cantina_C7B_4487</DESTINATION>
           <DESCRIPTION>
@@ -1062,7 +1062,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Street Fighter 4</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/StreetFighter.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/StreetFighter.png</IMAGE>
         <ITEM>
           <DESTINATION>E_CAPCOM_SF4_8C4B_C0B</DESTINATION>
         </ITEM>
@@ -1073,7 +1073,7 @@
         <TEXT LANG="it-IT">Lo Studio</TEXT>
         <TEXT LANG="es-ES">El Studio</TEXT>
         <TEXT>The Studio</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/studio_home.jpg</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/studio_home.jpg</IMAGE>
         <ITEM>
           <DESTINATION>The_Studio_7EA8_A1A3</DESTINATION>
           <DESCRIPTION>
@@ -1087,14 +1087,14 @@
       </ITEM>
       <ITEM>
         <TEXT>Tekken 6</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Tekken6.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Tekken6.png</IMAGE>
         <ITEM>
           <DESTINATION>SCEE_Tekken6_A74C_61E9</DESTINATION>
         </ITEM>
       </ITEM>
       <ITEM>
         <TEXT>UFC</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/UFC_nav_324x152.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/UFC_nav_324x152.png</IMAGE>
         <ITEM>
           <TEXT>UFC</TEXT>
           <DESTINATION>UFC_Octagon_BAC8_4C1A</DESTINATION>
@@ -1109,7 +1109,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Uncharted™</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/Uncharted.dds</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Uncharted.dds</IMAGE>
         <ITEM>
           <DESTINATION>Uncharted_TheBar</DESTINATION>
         </ITEM>
@@ -1122,7 +1122,7 @@
         <TEXT LANG="it-IT">Museo WipEout®</TEXT>
         <TEXT LANG="es-ES">Museo WipEout®</TEXT>
         <TEXT>WipEout® Museum</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/WipEout_324x152.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/WipEout_324x152.png</IMAGE>
         <ITEM>
           <DESTINATION>Wipeout_Space_CC7E_1A5</DESTINATION>
           <DESCRIPTION>
@@ -1136,7 +1136,7 @@
       </ITEM>
       <ITEM>
         <TEXT>Xi Museum</TEXT>
-        <IMAGE>http://scee-home.playstation.net/01.86/nav/IconImages/thumb320x176.png</IMAGE>
+        <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/thumb320x176.png</IMAGE>
         <ITEM>
           <DESTINATION>Xi_PostHub_final</DESTINATION>
         </ITEM>
@@ -1149,7 +1149,7 @@
     <TEXT LANG="it-IT">Working</TEXT>
     <TEXT LANG="es-ES">Working</TEXT>
     <TEXT>Working</TEXT>
-    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/featuredspaces_gradient.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/featuredspaces_gradient.dds</IMAGE>
       <ITEM>
           <DESTINATION>VIP_Lobby_2305_A445</DESTINATION>
       </ITEM>
@@ -1202,7 +1202,7 @@
     <TEXT LANG="it-IT">Custom</TEXT>
     <TEXT LANG="es-ES">Custom</TEXT>
     <TEXT>Custom</TEXT>
-    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/1_MyHome.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/1_MyHome.dds</IMAGE>
       <ITEM>
           <DESTINATION>Harbour Studio Mod</DESTINATION>
       </ITEM>
@@ -1213,14 +1213,14 @@
     <TEXT LANG="it-IT">Negozio</TEXT>
     <TEXT LANG="es-ES">Tienda</TEXT>
     <TEXT>Shop</TEXT>
-    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/PSNBag_Tile.jpg</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/PSNBag_Tile.jpg</IMAGE>
     <ITEM>
       <TEXT LANG="fr-FR">Notre sélection</TEXT>
       <TEXT LANG="de-DE">Im Rampenlicht</TEXT>
       <TEXT LANG="it-IT">Selezione speciale</TEXT>
       <TEXT LANG="es-ES">Selección especial</TEXT>
       <TEXT>Featured Items</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/2_NewAndRecommended.jpg</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/2_NewAndRecommended.jpg</IMAGE>
       <DESTINATION>NAV/E/CPEFeatured00.xml</DESTINATION>
       <FUNCTION>CommercePointItem</FUNCTION>
       <DESCRIPTION>
@@ -1242,7 +1242,7 @@
       <TEXT LANG="it-IT">Centro commerciale - Est</TEXT>
       <TEXT LANG="es-ES">Centro comercial: Este</TEXT>
       <TEXT>Shopping Mall East</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/shoppingcentre001.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/shoppingcentre001.png</IMAGE>
       <DESTINATION>Marketplace</DESTINATION>
     </ITEM>
     <ITEM>
@@ -1251,7 +1251,7 @@
       <TEXT LANG="it-IT">Centro commerciale - Ovest</TEXT>
       <TEXT LANG="es-ES">Centro comercial: Oeste</TEXT>
       <TEXT>Shopping Mall West</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/ShoppingCentre2_Nav06.png</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/ShoppingCentre2_Nav06.png</IMAGE>
       <DESTINATION>VMShoppingCentre_F1EB_5D0C</DESTINATION>
     </ITEM>
   </CATEGORY>
@@ -1260,13 +1260,13 @@
     <TEXT LANG="de-DE">Kino</TEXT>
     <TEXT LANG="es-ES">Cine</TEXT>
     <TEXT>Cinema</TEXT>
-    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Main_Theatre.dds</IMAGE>
+    <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Main_Theatre.dds</IMAGE>
     <ITEM>
       <DESTINATION>Cinema</DESTINATION>
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 1</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_1_AD5F_EBDF</DESTINATION>
       <DESCRIPTION>
         <HEADER>Need For Speed The Run</HEADER>
@@ -1274,7 +1274,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 2</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_2_8D9_C112</DESTINATION>
       <DESCRIPTION>
         <HEADER>Everybody's Golf (PS Vita)</HEADER>
@@ -1282,7 +1282,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 3</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_3_F580_8332</DESTINATION>
       <DESCRIPTION>
         <HEADER>Little Deviants (PS Vita)</HEADER>
@@ -1290,7 +1290,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 4</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_4_1679_F3D6</DESTINATION>
       <DESCRIPTION>
         <HEADER>ModNation Racers (PS Vita)</HEADER>
@@ -1298,7 +1298,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 5</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_5_5055_F6AE</DESTINATION>
       <DESCRIPTION>
         <HEADER>Reality Fighters (PS Vita)</HEADER>
@@ -1306,7 +1306,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 6</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_6_3A92_BF0</DESTINATION>
       <DESCRIPTION>
         <HEADER>Uncharted Golden Abyss (PS Vita)</HEADER>
@@ -1314,7 +1314,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 7</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_7_2B2A_8373</DESTINATION>
       <DESCRIPTION>
         <HEADER>The Last Of Us</HEADER>
@@ -1322,7 +1322,7 @@
     </ITEM>
     <ITEM>
       <TEXT>Auditorium 8</TEXT>
-      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
+      <IMAGE>http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/nav/IconImages/Cinema_Auditorium_large.dds</IMAGE>
       <DESTINATION>SCEE_Auditorium_8_D3F9_8E0D</DESTINATION>
       <DESCRIPTION>
         <HEADER>WipeOut (PS Vita)</HEADER>
