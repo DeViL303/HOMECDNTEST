@@ -1,0 +1,32 @@
+<xml>
+  <url_map>
+    <!-- BEGIN HPG SCRIPT BLOCK -->
+    <item key="secureobjectroot" server_url="http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/Objects" />
+    <item key="securesceneroot" server_url="http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/Scenes" />
+    <!-- END HPG SCRIPT BLOCK -->
+
+    <!-- BEGIN DESTINATIONS SCRIPT BLOCK -->
+    <item key="15816_destinations1" server_url="http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/160" />
+    <item key="15816_hellfire_poker_eu" server_url="http://c93f2f1d-3946-4f37-b004-1196acf599c5.scalr.ws/PokerServer" />
+    <item key="15816_hellfire_poker_us" server_url="http://c93f2f1d-3946-4f37-b004-1196acf599c5.scalr.ws/PokerServer" />
+    <!-- BEGIN DESTINATIONS SCRIPT BLOCK -->
+		
+	<!--BEGIN VEEMEE SCRIPT BLOCK -->
+	<item key="32059_nomansland_us" server_url="http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/" />
+	<item key="32059_nomanslandsecure_us" server_url="http://raw.githubusercontent.com/DeViL303/HOMECDNTEST/main/dev.01.86/" />
+	<!-- END VEEMEE SCRIPT BLOCK -->
+
+	<!--BEGIN PM SCRIPT BLOCK -->
+	<item key="ssfw_identity" server_url="http://prodsp.homeidentity.online.scee.com:10443/bb88aea9-6bf8-4201-a6ff-5d1f8da0dd37" />
+	<item key="ssfw_savedata" server_url="http://cdev3.homerewards.online.scee.com:10443/SaveDataService/local" />
+	<item key="ssfw_rewards" server_url="http://cdev3.homerewards.online.scee.com:10443" />
+
+	<item key="pm_identity" server_url="http://217.18.25.162:10093/bb88aea9-6bf8-4201-a6ff-5d1f8da0dd37" />
+	<item key="pm_savedata" server_url="http://217.18.25.162:10094/SaveDataService/CDEV" />
+	<item key="pm_inventory" server_url="http://217.18.25.162:10094/RewardsService/pmcards" />
+	<item key="pm_trade" server_url="http://217.18.25.162:10094/TradingService/pmcards" />
+	<item key="pm_events" server_url="http://217.18.25.162:10094/RewardsService/pmevents" />
+    <!--BEGIN PM SCRIPT BLOCK -->
+
+  </url_map>
+</xml>

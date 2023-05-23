@@ -1,0 +1,16 @@
+<XML>
+  <NAVIGATOR REGION="en-GB">http://173.208.142.94/dev.01.60/nav/E/Navigator_en-GB.xml</NAVIGATOR>
+  <NAVIGATOR REGION="fr-FR">http://173.208.142.94/dev.01.60/nav/E/Navigator_en-GB.xml</NAVIGATOR>
+  <NAVIGATOR REGION="de-DE">http://173.208.142.94/dev.01.60/nav/E/Navigator_en-GB.xml</NAVIGATOR>
+  <NAVIGATOR REGION="it-IT">http://173.208.142.94/dev.01.60/nav/E/Navigator_en-GB.xml</NAVIGATOR>
+  <NAVIGATOR REGION="es-ES">http://173.208.142.94/dev.01.60/nav/E/Navigator_en-GB.xml</NAVIGATOR>
+  <NAVIGATOR REGION="en-US">http://173.208.142.94/dev.01.60/nav/A/Navigator_SCEA.xml</NAVIGATOR>
+  <NAVIGATOR REGION="ja-JP">http://173.208.142.94/dev.01.60/nav/J/Navigator_SCEJ.xml</NAVIGATOR>
+  <NAVIGATOR REGION="ko-KR">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_KR.xml</NAVIGATOR>
+  <NAVIGATOR REGION="zh-HK">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_HK.xml</NAVIGATOR>
+  <NAVIGATOR REGION="zh-TW">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_TW.xml</NAVIGATOR>
+  <NAVIGATOR REGION="en-SG">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_SG.xml</NAVIGATOR>
+  <NAVIGATOR REGION="en-ID">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_ID.xml</NAVIGATOR>
+  <NAVIGATOR REGION="en-MY">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_MY.xml</NAVIGATOR>
+  <NAVIGATOR REGION="en-TH">http://173.208.142.94/dev.01.60/nav/H/navigator_asia_TH.xml</NAVIGATOR>
+</XML>
